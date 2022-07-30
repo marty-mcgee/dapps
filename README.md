@@ -1,2 +1,2 @@
 # dapps
-Decentralized Apps -- Ethereum-Based Blockchain JS/TS
+Decentralized Apps -- Ethereum-based Blockchain in JavaScript/TypeScript

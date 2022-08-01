@@ -1,6 +1,6 @@
 {
   "name": "@marty-mcgee/dapps",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Decentralized Apps -- Ethereum-based Blockchain in JavaScript/TypeScript",
   "keywords": [
     "javascript",
